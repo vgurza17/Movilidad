@@ -1,1 +1,21 @@
-body
+body {
+    /* Dentro de llaves de las propiedades */
+    font-family: font-family: "montserrat", sans-serif;
+    background-color: #fff;
+}
+h1 {
+    font-family: font-family: monte-stella, sans-serif;
+background-color: #3D8B34;
+text-align: :left
+}
+
+
+section {
+    width: 80%;
+    margin: 40% auto;
+}
+
+article{
+    margin-top: 40px;
+    margin-bottom: 40%px;
+}
